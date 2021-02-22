@@ -28,6 +28,8 @@ exports("ready", function (callback)
       callback()
   end)
 end)
+Should look like: 
+https://i.imgur.com/eLK159H.png
 
 es_extended server / main.lua
 https://imgur.com/a/L6zmAIf
